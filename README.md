@@ -14,6 +14,10 @@ Illustrate via simulation and associated explanatory text the properties of the 
 Show the sample mean and compare it to the theoretical mean of the distribution.
 Show how variable the sample is (via variance) and compare it to the theoretical variance of the distribution.
 Show that the distribution is approximately normal.
+In point 3, focus on the difference between the distribution of a large collection of random exponentials and the distribution of a large collection of averages of 40 exponentials.
+
+
+
 
 
 Part 2: Basic Inferential Data Analysis Instructions 
